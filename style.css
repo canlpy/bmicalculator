@@ -20,6 +20,13 @@ form  label {
     font-size: 1.2rem;
 }
 
+form button  {
+    margin-top:1.2rem;
+    width:6rem;
+    height:2rem;
+    border-radius: 10%;
+}
+
 #result {
     margin-top: 1.5rem;
     font-weight: bold;
